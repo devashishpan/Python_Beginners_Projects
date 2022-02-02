@@ -4,7 +4,7 @@ import sys
 
 
 def won_the_game():
-    print("\n\n Congratulations for winning the game!!!!! "
+    print("\n\nCongratulations for winning the game!!!!! "
           "Hope You Liked The Game. Please Play it again!!!")
     sys.exit()
 
