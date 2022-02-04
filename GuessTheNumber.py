@@ -9,7 +9,7 @@ def won_the_game():
     sys.exit()
 
 
-class NumberGuessGame():
+class NumberGuessGame:
     def __init__(self):
         self.lower = int(input("Enter the lower Bound : "))
         self.upper = int(input("Enter the Upper Bound : "))
